@@ -28,4 +28,4 @@ python backtest.py --brokerage 0      # zero-brokerage plan ആണെങ്ക�
 - Rules മാറ്റി (rr, risk, last entry time) വീണ്ടും test ചെയ്ത് നോക്കുക. ഒരു setting മാത്രം നോക്കി തീരുമാനിക്കരുത്.
 
 ## ഞങ്ങളുടെ reel-ലെ result (7 Sep – 26 Nov 2026)
-780 trades · Target ആദ്യം 4.2% · Charges ഇല്ലാതെ +₹9,978 · Charges കൂട്ടിയപ്പോൾ −₹46,263 (₹1 lakh, 1% risk).
+780 trades · Target ആദ്യം 4.2% · Charges ഇല്ലാതെ +₹16,773 · Charges ₹56,241 · Charges കൂട്ടിയപ്പോൾ −₹39,468 (₹1 lakh, 1% risk).
